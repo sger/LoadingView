@@ -6,5 +6,5 @@ Simple LoadingView for iOS
 
 ``` objective-c
 LoadingView *loadingView = [[LoadingView alloc] initWithFrame:self.view.bounds];
-[self.tableView addSubview:_loadingView];
+[self.tableView addSubview:loadingView];
 ```
